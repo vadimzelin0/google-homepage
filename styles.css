@@ -1,0 +1,81 @@
+.logo {
+  text-align: center;
+  margin-top: 75px;
+}
+
+#input {
+  width: 50%;
+  font-size: 25px;
+  border-radius: 35px;
+  margin-left: 25%;
+  margin-top: 15px;
+  padding: 10px;
+  padding-left: 65px;
+}
+
+.say {
+  position: absolute;
+  left: 970px;
+  top: 283px;
+}
+
+.search {
+  opacity: 0.4;
+  position: absolute;
+  left: 360px;
+  top: 288px;
+}
+
+.buttons {
+  position: absolute;
+  left: 530px;
+  margin-top: 25px;
+}
+
+.button {
+  padding: 10px;
+  background-color: #f2f2f2;
+  margin-right: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.youtube {
+  position: absolute;
+  left: 550px;
+  top: 420px;
+}
+
+p {
+  display: inline;
+  line-height: 40px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+.footer-text {
+  border: 1px solid #e4e4e4;
+  background-color: #f2f2f2;
+  width: 100vw;
+}
+
+p {
+  margin-left: 27px;
+  color: rgba(0,0,0,.54);
+}
+
+.specified_one {
+  margin-left: 0;
+  margin-left: 430px;
+}
+
+.specified_two {
+  margin-right: 27px;
+}
+
